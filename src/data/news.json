@@ -1,0 +1,7 @@
+[
+  { "id": 1, "title": "New Season Announced", "content": "A new season of My Hero Academia!", "date": "2023-09-12", "category": "Announcements" },
+  { "id": 2, "title": "Top 10 Anime", "content": "The top 10 anime of 2023 are here.", "date": "2023-08-22", "category": "Ranking" },
+  { "id": 3, "title": "Movie Premiere", "content": "Demon Slayer movie hits theatres.", "date": "2023-07-01", "category": "Premiere" },
+  { "id": 4, "title": "New Studio Formed", "content": "A new animation studio is launching.", "date": "2023-06-15", "category": "Industry" },
+  { "id": 5, "title": "Voice Actor Spotlight", "content": "Interview with a top VA.", "date": "2023-05-05", "category": "Interview" }
+]
